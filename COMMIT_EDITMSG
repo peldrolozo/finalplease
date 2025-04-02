@@ -1,0 +1,13 @@
+Assistant checkpoint: Add image error handling with fallback in BlogCard
+
+Assistant generated file changes:
+- client/src/components/blog/BlogCard.tsx: Add image error handling and fallback
+
+---
+
+User prompt:
+
+inspect errors and fix the error on displaying the images
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: c9e1af0c-70dc-4bad-a5f5-f0ec6fe4d13e
